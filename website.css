@@ -1,0 +1,35 @@
+body{
+  background:linear-gradient(#00E5FF, #AA00FF);
+  text-align: center;
+}
+#CI{
+  font-family: 'Turret Road', cursive;
+  font-size: 35px;
+}
+p{
+  
+}
+#image{
+  border-radius:50%;
+  width:300px;
+  padding: 100px;
+    text-align:center;
+}
+
+#MFH{
+    font-family: 'Turret Road', cursive;
+    font-size: 50px;
+    color: cyan;
+    font-weight: bolder;
+}
+#welcome{
+    padding: 10px;
+    width: 50%;
+    position: relative;
+}
+.links{
+    float: left;
+    color:aqua;
+    padding: 10px;
+    font-size: 20px;
+}
